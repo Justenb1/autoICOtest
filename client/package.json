@@ -23,7 +23,7 @@
   },
   "proxy": "http://localhost:8080",
   "devDependencies": {
-    "nodemon": "^1.18.4"
+    "nodemon": "^1.19.4"
   },
   "browserslist": [
     ">0.2%",
