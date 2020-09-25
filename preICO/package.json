@@ -12,7 +12,7 @@
     "@openzeppelin/contracts": "^2.3.0",
     "dotenv": "^8.2.0",
     "solc": "^0.5.11",
-    "truffle": "^5.0.5",
+    "truffle": "^5.1.45",
     "truffle-hdwallet-provider": "^1.0.17"
   }
 }
